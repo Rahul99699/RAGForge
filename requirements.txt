@@ -1,0 +1,7 @@
+pymupdf
+sentence-transformers
+chromadb
+python-dotenv
+numpy
+pytest
+langchain-text-splitters
